@@ -1,4 +1,4 @@
-package ArrayEx;
+package org.Assignments3;
 
 public class ArraySum {
 
